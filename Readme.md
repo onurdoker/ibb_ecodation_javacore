@@ -1,6 +1,6 @@
 # IBB Ecodation Java Core
 [GitHub](https://github.com/onurdoker)
-
+[Java Tutorial](https://www.w3schools.com/java/default.asp)
 # Git
 ```sh
 git init
